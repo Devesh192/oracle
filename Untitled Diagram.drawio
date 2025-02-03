@@ -4,6 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z83AcEnTEmYaqXhDOcuW-1" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <object label="Entity" id="Z83AcEnTEmYaqXhDOcuW-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+            <mxGeometry x="360" y="310" width="100" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Z83AcEnTEmYaqXhDOcuW-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z83AcEnTEmYaqXhDOcuW-4" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z83AcEnTEmYaqXhDOcuW-5" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
